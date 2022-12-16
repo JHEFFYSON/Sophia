@@ -6,7 +6,7 @@
     Fácil aprendizado
     Rápido e expansível
  
- Técnologiaa:
+ Técnologia:
      Reconhecimento de voz
      Síntese de voz
      Inteligente artificial 
